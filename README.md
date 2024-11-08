@@ -1,4 +1,5 @@
-# Конспект по первому занятию
+# ;jggf jdfhdwsjoivnefwlkvljefvhfsjknvn slvjnld lk lndksvnkno
+  по первому занятию
 
 
 ## Проведение занятий
