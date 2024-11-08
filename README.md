@@ -64,14 +64,11 @@
 - Не думать "в лоб"
 - Уметь упрощать задачу (абстракция - один из принципов ООП)
 
-## Уровень языков
+## Уровень языкoв
 
 **![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcOlK95kiqJwjQwW7peUH9h2Gva36piXiRRgDjbGoNlF2ugPJnw8xBeSHFXsQ-yzCBPN3msE3P_B7NlDDhcflI7MYI_GqcnyGDNWQqmArFRflxCbXV5N6N5hox1BTW_rOi2mvTYCnlq0ju6hOoitZpMlRhFftZS=s2048?key=ioesny1-am-zBCTxlH-YhQ)
 
 ## Типы языков программирования
-
-**![](https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcDzPSMIiX3qYXcPzu79kmt52zzhzNEsOj-NKRbI8bncl-V8JcPmB1egCChLcs9xLS6F1O0oXpwxEsCyNOsljjnl5IaWMt5bI0QG-i0OS4JXncKVM-jI5Ou6_bz-6xT2VXR_VGgyKX-9KfZclteroK26z5aygxt=s2048?key=ioesny1-am-zBCTxlH-YhQ)
-
 
 ## Абстракция
 
